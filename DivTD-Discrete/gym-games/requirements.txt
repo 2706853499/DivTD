@@ -1,0 +1,8 @@
+pygame==2.5.2
+MinAtar==1.0.15
+gymnasium>=0.28.1
+numpy>=1.26.3
+ple.egg==info
+pyglet>=2.0.10
+seaborn>=0.13.1
+setuptools>=69.0.3
